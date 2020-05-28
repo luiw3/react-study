@@ -6,6 +6,7 @@ body {
 
 .Button {
   border: 1px solid #521751;
+  border-radius: 2px;
   font: inherit;
   padding: 8px;
   background-color: #521751;
