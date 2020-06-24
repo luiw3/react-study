@@ -7,3 +7,4 @@
 - [ ] Advanced components concepts
 - [ ] Usefull libraries
 - [ ] Component libraries
+- [ ] React + Ionic
